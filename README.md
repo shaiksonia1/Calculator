@@ -1,4 +1,4 @@
-# Calculator
+# Calculator using HTML,CSS,JAVASCRIPT
 
 This is a simple calculator built with HTML, CSS, and JavaScript. The calculator has a clean and modern user interface, with buttons for the digits, basic arithmetic operations, and a clear button to reset the display.
 
